@@ -1,0 +1,22 @@
+✔ keyboard layout
+✔ top plate design
+✔ bottom plate design
+PCB:
+    ✔ schematic
+    ✔ footprint picking
+        ✔ diodes {THT 1N4148}
+        ✔ Switches (Alps + MX)
+        ✔ nice!nano (Pro Micro footprint)
+        ✔ nice!view
+        ✔ EC11 rotary encoder
+        ✔ Reset Button {SKHLLCA010}
+        ✔ Battery JST {S2B-PH-K-S(LF)(SN)}
+        ✔ Power Switch {MSK12C02}
+        ✔ M2 Spacer Holes (Spacer Outer diameter: 3.1mm)
+    ✔ 3d models
+    ✔ component placement
+    ✔ routing
+    ✔ DRC
+    ✔ gerber generation
+    ✔ reverse PCB
+✔ ZMK

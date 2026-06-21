@@ -1,0 +1,6 @@
+[submodule "kicad/dual-blades/libs/ebastler/marbastlib"]
+	path = kicad/dual-blades/libs/ebastler/marbastlib
+	url = https://github.com/ebastler/marbastlib
+[submodule "kicad/dual-blades-reverse/libs/ebastler/marbastlib"]
+	path = kicad/dual-blades-reverse/libs/ebastler/marbastlib
+	url = https://github.com/ebastler/marbastlib
