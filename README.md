@@ -1,5 +1,7 @@
 # Dual Blades
 
+<img src="keyboard.png" width="500px"/>
+
 ## Images
 ### Keyboard Layout
 <img src="keyboard-layout-editor/keyboard-layout.png" width="500px"/>
@@ -48,10 +50,10 @@
 | 1 | [Linear rotary encoder](https://splitkb.com/products/linear-rotary-encoder) |
 | 1 | [Tactile rotary encoder](https://splitkb.com/products/industrial-rotary-encoder) |
 | 1 | [Reset buttons - **side push** (set of two)](https://splitkb.com/products/reset-buttons) |
-| 2 | [Mill-Max Low Profile Sockets](https://splitkb.com/products/mill-max-low-profile-sockets) |
+| 2 | [Mill-Max Low Profile Sockets (with Headers)](https://splitkb.com/products/mill-max-low-profile-sockets) |
 | 1 | [M2 screws - **4 mm**(set of 50)](https://splitkb.com/products/m2-screws) |
 | 1 | [Brass M2 spacers - **8 mm** (set of 50)](https://splitkb.com/products/brass-m2-spacers) |
-| 2 | [301230 LiPo](https://www.aliexpress.com/item/1005005348368664.html) |
+| 2 | [301230 LiPo (check polarity)](https://www.aliexpress.com/item/1005005348368664.html) |
 
 ## Used
 * http://www.keyboard-layout-editor.com
